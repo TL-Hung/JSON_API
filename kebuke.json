@@ -1,0 +1,184 @@
+{
+  "Classic": [
+    {
+      "name": "熟成紅茶",
+      "price": {"M": 35, "L": 40},
+      "description": "帶有濃郁果香的經典紅茶",
+      "canBeHot": true
+    },
+    {
+      "name": "麗春紅茶",
+      "price": {"M": 35, "L": 40},
+      "description": "令人傾心依戀的花香調紅茶",
+      "canBeHot": true
+    },
+    {
+      "name": "胭脂紅茶",
+      "price": {"M": 45, "L": 50},
+      "description": "絲絨果香調與一抹乾爽風味",
+      "canBeHot": true
+    },
+    {
+      "name": "金鳳紅茶",
+      "price": {"M": 50, "L": 60},
+      "description": "舌尖上的蜂蜜尾韻與經典熟成的香氣",
+      "canBeHot": true
+    },
+    {
+      "name": "春芽綠茶",
+      "price": {"M": 35, "L": 40},
+      "description": "花香四溢的翡翠綠茶",
+      "canBeHot": true
+    },
+    {
+      "name": "雪花冷露",
+      "price": {"M": 35, "L": 40},
+      "description": "古法熬煮的頂級冷泡南薑紅露",
+      "canBeHot": false
+    },
+    {
+      "name": "熟成冷露",
+      "price": {"M": 35, "L": 40},
+      "description": "經典紅茶與古法熬煮冬瓜露",
+      "canBeHot": false
+    },
+    {
+      "name": "春芽冷露",
+      "price": {"M": 35, "L": 40},
+      "description": "青翠綠茶與古法熬煮冬瓜露",
+      "canBeHot": false
+    }
+  ],
+  "Mix tea": [
+    {
+      "name": "熟成檸果",
+      "price": {"M": 60, "L": 70},
+      "description": "經典檸檬與經典紅茶清新的邂逅",
+      "canBeHot": true
+    },
+    {
+      "name": "冷露檸果",
+      "price": {"M": 60, "L": 70},
+      "description": "蜜釀檸檬佐古法熬製冷泡露",
+      "canBeHot": false
+    },
+    {
+      "name": "胭脂多多",
+      "price": {"M": 50, "L": 60},
+      "description": "兒時記憶的多多遇上微酸的胭脂風味",
+      "canBeHot": false
+    },
+    {
+      "name": "金鳳檸果",
+      "price": {"M": 50, "L": 60},
+      "description": "清爽酸甜的蜂蜜與鮮檸黃",
+      "canBeHot": false
+    },
+    {
+      "name": "金檸熟成",
+      "price": {"M": 60, "L": 70},
+      "description": "爽口的蜂蜜檸檬與醇厚的經典紅茶",
+      "canBeHot": true
+    },
+    {
+      "name": "金檸春芽",
+      "price": {"M": 60, "L": 70},
+      "description": "蜂蜜檸檬和香甜春芽綠茶的邂逅",
+      "canBeHot": true
+    },
+    {
+      "name": "桑檸熟成",
+      "price": {"M": 60, "L": 70},
+      "description": "桑椹果釀與經典熟成的邂逅",
+      "canBeHot": true
+    },
+    {
+      "name": "柑果紅茶",
+      "price": {"M": 60, "L": 70},
+      "description": "清新文旦與胭脂紅茶的甜滋味",
+      "canBeHot": false
+    },
+    {
+      "name": "橘果熟成",
+      "price": {"M": 60, "L": 70},
+      "description": "茂谷柑橘搭配經典熟成紅茶的融合",
+      "canBeHot": true
+    },
+    {
+      "name": "莓果春芽",
+      "price": {"M": 60, "L": 70},
+      "description": "莓果清香的初戀酸甜春芽",
+      "canBeHot": false
+    }
+  ],
+  "Sweet Cream Cold Foam": [
+    {
+      "name": "雲蓋熟成",
+      "price": {"M": 60, "L": 65},
+      "description": "經典熟成紅茶與大受歡迎的醇香鮮奶油",
+      "canBeHot": false
+    },
+    {
+      "name": "雲蓋麗春",
+      "price": {"M": 60, "L": 65},
+      "description": "淡花香的麗春茶與大受歡迎的醇香鮮奶油",
+      "canBeHot": false
+    },
+    {
+      "name": "雲蓋胭脂",
+      "price": {"M": 65, "L": 70},
+      "description": "濃郁果香的胭脂紅茶與大受歡迎的醇香鮮奶油",
+      "canBeHot": false
+    },
+    {
+      "name": "雲蓋春芽",
+      "price": {"M": 60, "L": 65},
+      "description": "翡翠綠茶與大受歡迎的醇香鮮奶油",
+      "canBeHot": false
+    },
+    {
+      "name": "雲蓋歐蕾",
+      "price": {"M": 65, "L": 75},
+      "description": "熟成歐蕾搭配醇厚鮮奶油的絕配",
+      "canBeHot": false
+    },
+    {
+      "name": "雲蓋黑蜜",
+      "price": {"M": 70, "L": 80},
+      "description": "香濃檸檬與熟成紅茶的甜蜜邂逅",
+      "canBeHot": false
+    }
+  ],
+  "Milk tea": [
+    {
+      "name": "熟成歐蕾",
+      "price": {"M": 55, "L": 65},
+      "description": "醇厚奶茶與經典熟成紅茶的經典",
+      "canBeHot": true
+    },
+    {
+      "name": "冷露歐蕾",
+      "price": {"M": 55, "L": 65},
+      "description": "古法熬製的冬瓜露遇上鮮厚奶",
+      "canBeHot": false
+    },
+    {
+      "name": "白玉歐蕾",
+      "price": {"M": 60, "L": 70},
+      "description": "醇厚鮮奶搭配滑嫩Q白玉珍珠",
+      "canBeHot": true
+    },
+    {
+      "name": "金鳳歐蕾",
+      "price": {"M": 60, "L": 70},
+      "description": "奶與茶的完美搭配蜂蜜金鳳梨",
+      "canBeHot": true
+    },
+    {
+      "name": "黑蜜歐蕾",
+      "price": {"M": 60, "L": 70},
+      "description": "茶與奶香氣後展現的是酥軟的炒糖味",
+      "canBeHot": true
+    }
+  ]
+}
